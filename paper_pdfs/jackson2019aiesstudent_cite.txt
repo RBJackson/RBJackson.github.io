@@ -1,0 +1,6 @@
+@InProceedings{jackson2019aiesstudent,
+author={Ryan Blake Jackson},
+title={Generating Appropriate Responses to Inappropriate Robot Commands},
+booktitle={Proceedings of the Student Program of the 2nd AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society},
+year={2019}
+}

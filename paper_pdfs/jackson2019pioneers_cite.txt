@@ -1,0 +1,6 @@
+@InProceedings{jackson2019pioneers,
+author={Ryan Blake Jackson},
+title={Toward Morally Sensitive Robotic Communication},
+booktitle={Proceedings of the Human-Robot Interaction (HRI) Pioneers Workshop},
+year={2019}
+}

@@ -1,0 +1,6 @@
+@InProceedings{jackson2019darkhri,
+author={Ryan Blake Jackson and Tom Williams},
+title={On Perceived Social and Moral Agency in Natural Language Capable Robots},
+booktitle={Proceedings of the 2019 HRI Workshop on The Dark Side of Human-Robot Interaction: Ethical Considerations and Community Guidelines for the Field of HRI},
+year={2019}
+}

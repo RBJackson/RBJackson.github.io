@@ -1,0 +1,8 @@
+@inproceedings{fisher2017anomaly,
+  title={Anomaly detection in earth dam and levee passive seismic data using multivariate Gaussian},
+  author={Fisher, Wendy and Jackson, Blake and Camp, Tracy and Krzhizhanovskaya, Valeria V},
+  booktitle={2017 16th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+  pages={685--690},
+  year={2017},
+  organization={IEEE}
+}

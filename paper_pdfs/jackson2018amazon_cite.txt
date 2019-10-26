@@ -1,0 +1,8 @@
+@inproceedings{jackson2018amazon,
+  title={Amazon Echo Security: Machine Learning to Classify Encrypted Traffic},
+  author={Jackson, Ryan Blake and Camp, Tracy},
+  booktitle={2018 27th International Conference on Computer Communication and Networks (ICCCN)},
+  pages={1--10},
+  year={2018},
+  organization={IEEE}
+}

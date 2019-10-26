@@ -1,0 +1,6 @@
+@InProceedings{jackson2019althri,
+author={Ryan Blake Jackson and Tom Williams},
+title={Language-Capable Robots may Inadvertently Weaken Human Moral Norms},
+booktitle={Proceedings of the Companion of the 14th ACM/IEEE International Conference on Human-Robot Interaction},
+year={2019}
+}

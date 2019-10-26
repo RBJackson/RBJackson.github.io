@@ -1,0 +1,6 @@
+@InProceedings{jackson2018adversarial,
+author={Ryan Blake Jackson and Tom Williams},
+title={Challenges in Responding to Malicious Robot-Directed Commands},
+booktitle={Extended Abstracts of the Robotics: Science and Systems Workshop on Adversarial Robotics},
+year={2018}
+}

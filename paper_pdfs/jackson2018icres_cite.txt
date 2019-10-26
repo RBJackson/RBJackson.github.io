@@ -1,0 +1,6 @@
+@InProceedings{jackson2018icres,
+author={Ryan Blake Jackson and Tom Williams},
+title={Robot: Asker of Questions and Changer of Norms?},
+booktitle={Proceedings of the International Conference on Robot Ethics and Standards},
+year={2018}
+}

@@ -224,6 +224,13 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   padding: 0;
 }
 
+#content_no_sidebar
+{ text-align: left;
+  float: left;
+  width: 850px;
+  padding: 0;
+}
+
 #content ul
 { margin: 2px 0 22px 0px;
 }
@@ -339,4 +346,23 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;
+}
+
+p.pub {
+	border-left: 2px solid var(--accent-color);
+    margin-left: 2px;
+    margin-bottom: 4px;
+    min-height: 10px;
+    padding: 0 0 8px 12px;
+}
+
+p .title {
+  font-weight:900;
+  font-size:120%;
+  color: var(--accent-color);
+}
+
+strong {
+  font-weight:900;
+  font-size:102%;
 }

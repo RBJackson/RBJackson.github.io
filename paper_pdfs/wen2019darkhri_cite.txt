@@ -1,0 +1,6 @@
+@InProceedings{wen2019darkhri,
+author={Ruchen Wen and Ryan Blake Jackson and Tom Williams and Qin Zhu},
+title={Towards A Role Ethics Approach to Command Rejection},
+booktitle={Proceedings of the 2019 HRI Workshop on The Dark Side of Human-Robot Interaction: Ethical Considerations and Community Guidelines for the Field of HRI},
+year={2019}
+}

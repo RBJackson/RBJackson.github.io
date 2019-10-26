@@ -1,0 +1,6 @@
+@InProceedings{williams2018cogsci,
+author={Tom Williams and Ryan Blake Jackson and Jane Lockshin},
+title={A Bayesian Analysis of Moral Norm Malleability during Clarification Dialogues},
+booktitle={Proceedings of the 40th annual meeting of the Cognitive Science Society},
+year={2018}
+}

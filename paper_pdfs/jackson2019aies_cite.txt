@@ -1,0 +1,6 @@
+@InProceedings{jackson2019aies,
+author={Ryan Blake Jackson and Ruchen Wen and Tom Williams},
+title={Tact in Noncompliance: The Need for Pragmatically Apt Responses to Unethical Commands},
+booktitle={Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society},
+year={2019}
+}

@@ -1,0 +1,6 @@
+@InProceedings{zhu2018brain,
+author={Qin Zhu and Tom Williams and Ryan Blake Jackson},
+title={Blame-Laden Moral Rebukes and the Morally Competent Robot: A Confucian Ethical Perspective},
+booktitle={Proceedings of the Workshop on Brain-Based and Artificial Intelligence},
+year={2018}
+}
