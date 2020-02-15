@@ -1,0 +1,6 @@
+@InProceedings{jackson2020hri,
+author={Ryan Blake Jackson and Tom Williams and Nicole M. Smith},
+title={Exploring the Role of Gender in Perceptions of Robotic Noncompliance},
+booktitle={Proceedings of the 15th ACM/IEEE International Conference on Human-Robot Interaction},
+year={2020}
+}
