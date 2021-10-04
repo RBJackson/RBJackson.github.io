@@ -1,0 +1,8 @@
+@article{briggs2021and,
+  title={Why and How Robots Should Say ‘No’},
+  author={Briggs, Gordon and Williams, Tom and Jackson, Ryan Blake and Scheutz, Matthias},
+  journal={International Journal of Social Robotics},
+  pages={1--17},
+  year={2021},
+  publisher={Springer}
+}

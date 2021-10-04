@@ -1,0 +1,6 @@
+@InProceedings{jackson2021integrated,
+  author={Jackson, Ryan Blake and Li, Sihui and Banisetty, Santosh Balajee and Siva, Sriram and Zhang, Hao and Dantam, Neil and Williams, Tom},
+  title={An Integrated Approach to Context-Sensitive Moral Cognition in Robot Cognitive Architectures},
+  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2021}
+}

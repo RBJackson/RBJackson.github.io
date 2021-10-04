@@ -1,0 +1,6 @@
+@InProceedings{jackson2021roboidentity,
+title={Design, Performance, and Perception of Robot Identity},
+author={Jackson, Ryan Blake and Bejarano, Alexandra and Winkle, Katie and Williams, Tom},
+booktitle={Proceedings of the Workshop on Robo-Identity: Artificial identity and multi-embodiment at HRI},
+year={2021}
+}

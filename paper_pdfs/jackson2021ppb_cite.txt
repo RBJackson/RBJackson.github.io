@@ -1,0 +1,6 @@
+@InProceedings{jackson2021ppb,
+title={Social Good Versus Robot Well-Being: On the Principle of Procreative Beneficence and Robot Gendering},
+author={Jackson, Ryan Blake and Williams, Tom},
+booktitle={Proceedings of the RO-MAN Workshop on Gendering Robots: Ongoing (Re)configurations of Gender in Robotics (GenR)},
+year={2021}
+}

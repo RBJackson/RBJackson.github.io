@@ -1,0 +1,7 @@
+@article{jackson2021theory,
+  title={A Theory of Social Agency for Human-Robot Interaction},
+  author={Jackson, Ryan Blake and Williams, Tom},
+  journal={Frontiers in Robotics and AI},
+  year={2021},
+  publisher={Frontiers}
+}

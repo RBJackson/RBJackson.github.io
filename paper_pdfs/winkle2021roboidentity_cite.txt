@@ -1,0 +1,6 @@
+@InProceedings{winkle2021roboidentity,
+title={On the Flexibility of Robot Social Identity Performance: Benefits, Ethical Risks and Open Research Questions for HRI},
+author={Winkle, Katie and Jackson, Ryan Blake and Bejarano, Alexandra and Williams, Tom},
+booktitle={Proceedings of the Workshop on Robo-Identity: Artificial identity and multi-embodiment at HRI},
+year={2021}
+}

@@ -1,0 +1,6 @@
+@article{jackson2020enabling,
+  title={Enabling Morally Sensitive Robotic Clarification Requests},
+  author={Jackson, Ryan Blake and Williams, Tom},
+  journal={arXiv preprint arXiv:2007.08670},
+  year={2020}
+}

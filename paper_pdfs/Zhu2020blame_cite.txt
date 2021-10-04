@@ -1,0 +1,10 @@
+@article{zhu2020blame,
+  title={Blame-laden moral rebukes and the morally competent robot: A Confucian ethical perspective},
+  author={Zhu, Qin and Williams, Tom and Jackson, Blake and Wen, Ruchen},
+  journal={Science and Engineering Ethics},
+  volume={26},
+  number={5},
+  pages={2511--2526},
+  year={2020},
+  publisher={Springer}
+}

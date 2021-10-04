@@ -1,0 +1,6 @@
+@InProceedings{williams2020icsrspace,
+title={Identity Performance in Multi-Robot Distributed Systems},
+author={Williams, Tom and Ayers, Daniel and Kaufman, Camille and Serrano, Jon and Runningrabbit, Shania Jo and Roy, Sayanti and Pal, Poulomi and Bejarano, Alexandra and Jackson, Ryan Blake},
+booktitle={Proceedings of the 2020 Workshop on Human-Robot Interaction for Space Robotics at the 12th International Conference on Social Robotics},
+year={2020}
+}
