@@ -1,0 +1,6 @@
+@inproceedings{culpepper2022ipower,
+  title={IPOWER: Incremental, Probabilistic, Open-World Reference Resolution},
+  author={Will Culpepper and Thomas A. Bennett and Lixiao Zhu and Rafael Sousa Silva and Ryan Blake Jackson and Tom Williams},
+  booktitle={Annual Meeting of the Cognitive Science Society (COGSCI)},
+  year={2022}
+}

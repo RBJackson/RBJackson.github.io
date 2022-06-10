@@ -1,0 +1,10 @@
+@article{jackson2022enabling,
+  title={Enabling Morally Sensitive Robotic Clarification Requests},
+  author={Jackson, Ryan Blake and Williams, Tom},
+  journal={ACM Transactions on Human-Robot Interaction (THRI)},
+  volume={11},
+  number={2},
+  pages={1--18},
+  year={2022},
+  publisher={ACM New York, NY}
+}

@@ -1,0 +1,7 @@
+@inproceedings{winkle2022norm,
+  title={Norm-Breaking Responses to Sexist Abuse: A Cross-Cultural Human Robot Interaction Study},
+  author={Winkle, Katie and Jackson, Ryan Blake and Melsi{\'o}n, Gaspar Isaac and Br{\v{s}}ci{\'c}, Dra{\v{z}}en and Leite, Iolanda and Williams, Tom},
+  booktitle={Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction},
+  pages={120--129},
+  year={2022}
+}
