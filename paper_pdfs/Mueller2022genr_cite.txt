@@ -1,0 +1,6 @@
+@InProceedings{Mueller2022genr,
+title={"I’m Not a Girl": The Myth of Gender Neutrality and the Nonbinary Social Robot},
+author={Mueller, Ruth and Yasuda, Aoi and Jackson, Ryan Blake},
+booktitle={Proceedings of the RO-MAN Workshop on Gendering Robots: Intersectional Feminist Perspectives on Gender in Social Robotics (GenR)},
+year={2022}
+}

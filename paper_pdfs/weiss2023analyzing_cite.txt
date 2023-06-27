@@ -1,0 +1,6 @@
+@inproceedings{weiss2023analyzing,
+  title={Analyzing the Fluency of Human-Robot Interactions},
+  author={Weiss, Emily and Jacotin, Zeneve and Jackson, Ryan Blake and Yuan, Amy and Boerkoel, James},
+  booktitle={AAAI 2023 Spring Symposium on HRI in Academia and Industry: Bridging the Gap},
+  year={2023}
+}
